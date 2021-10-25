@@ -3,7 +3,7 @@
 ## 🙋🏻‍♂️ Sobre Mim
 
 🎓 Cursando 2º semestre de CC no [Centro Universitário Cesuca](https://www.cesuca.edu.br/) em Cachoeirinha/RS<br>
-👨‍💻 Atualmente buscando um estágio na área de Desenvolvimento Web Front-End<br>
+👨‍💻 Atualmente **buscando um estágio** na área de Desenvolvimento Web Front-End<br>
 ⚡ Meu hobby favorito é codar
 
 
