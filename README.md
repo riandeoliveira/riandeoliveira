@@ -6,6 +6,11 @@
 👨‍💻 Atualmente **buscando um estágio** na área de Desenvolvimento Web Front-End<br>
 ⚡ Meu hobby favorito é **codar**
 
+<img src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true" alt="Rian Oliveira's GitHub Stats" height="200"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&theme=github_dark" alt="Most Used Languages" height="200"></img>
+
+
+
 
 ## 🛠 Minha Stack
 
