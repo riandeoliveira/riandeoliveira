@@ -13,13 +13,15 @@
 
 ## 🛠 Minha Stack
 
-![HTML](https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+<div align="center">
+ <img src="https://camo.githubusercontent.com/c8d13e1c596a6726b1da8475a9299fac133f95ef009083b48be01f975a44987e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35" alt="Ícone HTML" height="30"></img>
+ <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="Ícone CSS" height="30"></img>
+ <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Ícone JavaScript" height="30"></img>
+ <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Ícone Visual Studio Code" height="30"></img>
+ <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Ícone Git" height="30"></img>
+ <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="Ícone GitHub" height="30"></img>
+ <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Ícone Markdown" height="30"></img>
+</div>
 
 <!-- 
 **riandeoliveira/riandeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
