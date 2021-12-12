@@ -23,6 +23,7 @@
  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Ícone Markdown" height="25"></img>
 </div>
 
+
 <!-- 
 **riandeoliveira/riandeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
