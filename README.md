@@ -7,8 +7,8 @@
 ⚡ Meu hobby favorito é **codar**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true" alt="Rian Oliveira's GitHub Stats" height="180"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark" alt="Most Used Languages" height="180"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true" alt="Rian Oliveira's GitHub Stats" height="150"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark" alt="Most Used Languages" height="150"></img>
 </div>
 
 ## 🛠 Minha Stack
