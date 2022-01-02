@@ -19,6 +19,7 @@
  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="Ícone JavaScript" height="25"></img>
  <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" alt="Ícone PHP" height="25"></img>
  <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" alt="Ícone MySQL" height="25"></img>
+ <br>
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Ícone Visual Studio Code" height="25"></img>
  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Ícone Git" height="25"></img>
  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="Ícone GitHub" height="25"></img>
