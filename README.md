@@ -7,8 +7,30 @@
 ⚡ Meu hobby favorito é **codar**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true" alt="Rian Oliveira's GitHub Stats" height="180em"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark" alt="Most Used Languages" height="180em"></img>
+ <img src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true" alt="Rian Oliveira's GitHub Stats" height="180em"></img>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark" alt="Most Used Languages" height="180em"></img>
+</div>
+
+## 📞 Contatos
+
+<div align="center">
+ 
+ <a href="https://www.instagram.com/rian.deoliveira/" rel="external" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Ícone do Instagram">
+ </a>
+
+ <a href="mailto:riandiasdeoliveira2001@gmail.com" rel="external" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Ícone do Gmail">
+ </a>
+
+ <a href="https://www.linkedin.com/in/riandeoliveira/" rel="external" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Ícone do LinkedIn">
+ </a>
+ 
+ <a href="https://wa.me/5551991852873" rel="external" target="_blank">
+   <img src="https://img.shields.io/badge/-WhatsApp-%230071B5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Ícone do WhatsApp">
+ </a>
+ 
 </div>
 
 ## 🛠 Minha Stack
