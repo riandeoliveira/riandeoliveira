@@ -56,8 +56,8 @@
                                                                                                                                        
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS Icon" height="35" width="50" title="SASS"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript.js Icon" height="35" width="50" title="TypeScript.js"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python.js Icon" height="35" width="50" title="Python.js"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="35" width="50" title="TypeScript"></img>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" height="35" width="50" title="Python"></img>
 </div>
         
                                                                                                                                        
