@@ -1,78 +1,159 @@
+<div align="center">
+  <h3>
+    <q><i>The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do.</i></q>
+  </h3>
+</div>
+
+<div align="right">
+  <h3>- Ted Nelson</h3>
+</div>
+
 <h1 align="center">
-    <span">Hello, World! I'm Rian Oliveira</span>
-    <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" align="center"></img>
+  <span><code>Hello, World! I'm &#60;Rian Oliveira /&#62;</code></span>
+  <img align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />
 </h1>
 
-## 🙋‍♂️ About Me
+<h2>🙋‍♂️ About Me</h2>
 
-* 👨‍💻 Looking for a **Junior Web Developer** job <br>
-* ⚡ My favorite hobby is **coding** <br>
-* 📄 You can check my resume [here](https://drive.google.com/file/d/1MJjgLDegIzwDD8KHtTGSaLrgAM3Vzpbs/view?usp=sharing)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img align="right" alt="Spotify music currently playing" src="https://spotify-github-profile.vercel.app/api/view?uid=riandias2016&cover_image=true&theme=default&bar_color_cover=true" />
+</a>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true" alt="Rian Oliveira's GitHub Stats" height="180em"></img>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark" alt="Most Used Languages" height="180em"></img>
-</div>
+<ul>
+  <li>⭐ 20 years old.</li>
+  <li>🎓 I'm currently in the third semester of Computer Science at <a href="https://www.cesuca.edu.br/" rel="external">Cesuca University Center</a>.</li>
+  <li>🍕 My favorite food is pizza.</li>
+  <li>🎵 I love listening to rock, pop and lo-fi.</li>
+  <li>📒 I like to write fanfics sometimes.</li>
+  <li>🪄 Reading Harry Potter and the Prisoner of Azkaban.</li>
+  <li>⚡ My favorite hobby is <strong>coding</strong>.</li>
+  <li>👨‍💻 Looking for a <strong>Junior Front-End Developer</strong> job.</li>
+  <li>📄 You can check my resume <a href="https://drive.google.com/file/d/1MJjgLDegIzwDD8KHtTGSaLrgAM3Vzpbs/view?usp=sharing" rel="external"><strong>here</strong></a>.</li>
+</ul>
 
-## 📱 Contacts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Anime GIF with programming" height="178" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" width="286" />
 
-<div align="center">
-    <a href="mailto:riandiasdeoliveira2001@gmail.com" rel="external" target="_blank" title="Gmail">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon">
-    </a>
-    <a href="https://www.linkedin.com/in/riandeoliveira/" rel="external" target="_blank" title="LinkedIn">
-        <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon">
-    </a>
-    <a href="https://wa.me/5551991852873" rel="external" target="_blank" title="WhatsApp">
-        <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Icon">
-    </a>
-    <a href="https://www.instagram.com/rian.deoliveira/" rel="external" target="_blank" title="Instagram">
-        <img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon">
-    </a>
-</div>
-
-## 🛠 My Stack
+<h2>⚙️ GitHub Analytics</h2>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 Icon" height="35" width="50" title="HTML5"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3 Icon" height="35" width="50" title="CSS3"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" height="35" width="50" title="JavaScript"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode Icon" height="35" width="50" title="VSCode"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Ícone Git" height="35" width="50" title="Git"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Icon" height="35" width="50" title="GitHub"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown Icon" height="35" width="50" title="Markdown"></img>
+  <img alt="Rian Oliveira's GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true&border_color=4c8eda&bg_color=111113&border_radius=10&include_all_commits=true" />
+  <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark&hide=html&langs_count=6&border_color=4c8eda&bg_color=111113&border_radius=10" />
 </div>
 
-## 📚 Studying
+<h2>🛠 My Stack</h2>
+
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center" height="110" width="140">
+        <img alt="HTML5 logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="50" />
+        <br>
+        <span>HTML</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="CSS3 logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="50" />
+        <br>
+        <span>CSS</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="JavaScript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50" />
+        <br>
+        <span>JavaScript</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="VSCode logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" />
+        <br>
+        <span>VSCode</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="110" width="140">
+        <img alt="React logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="50" />
+        <br>
+        <span>React</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="SASS logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" width="50" />
+        <br>
+        <span>SASS</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="TypeScript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="50" />
+        <br>
+        <span>TypeScript</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="Styled Components logo" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" title="Styled Components" width="50" />
+        <br>
+        <span>Styled Components</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="110" width="140">
+        <img alt="Python logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="50" />
+        <br>
+        <span>Python</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="Express.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" width="50" />
+        <br>
+        <span>Express.js</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="Node.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" />
+        <br>
+        <span>Node.js</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="MongoDB logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" />
+        <br>
+        <span>MongoDB</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" height="110" width="140">
+        <img alt="Markdown logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" width="50" />
+        <br>
+        <span>Markdown</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="NPM logo" src="https://juststickers.in/wp-content/uploads/2014/07/NPM.png" title="NPM" width="50" />
+        <br>
+        <span>NPM</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="Git logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="50" />
+        <br>
+        <span>Git</span>
+      </td>
+      <td align="center" height="110" width="140">
+        <img alt="GitHub logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="50" />
+        <br>
+        <span>GitHub</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>📱 Contacts</h2>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon" height="35" width="50" title="MongoDB"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js Icon" height="35" width="50" title="Express.js"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js Icon" height="35" width="50" title="React.js"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js Icon" height="35" width="50" title="Node.js"></img>
+  <a href="mailto:riandiasdeoliveira2001@gmail.com" rel="external" title="Gmail">
+    <img alt="Gmail logo" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" title="Gmail" width="50" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.linkedin.com/in/riandeoliveira/" rel="external" title="LinkedIn">
+    <img alt="LinkedIn logo" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" title="LinkedIn" width="50" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://wa.me/5551991852873" rel="external" title="WhatsApp">
+    <img alt="WhatsApp logo" src="https://camo.githubusercontent.com/945d32cdd8d51fe844ca8b2976914ae8786586607aee1cba24d7318e24b30411/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77686174736170702e737667" title="WhatsApp" width="50" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://www.instagram.com/rian.deoliveira/" rel="external" title="Instagram">
+    <img alt="Instagram logo" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" title="Instagram" width="50" />
+  </a>
 </div>
-
-## 💡 Interested in Learning
-                                                                                                                                       
-<div align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS Icon" height="35" width="50" title="SASS"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon" height="35" width="50" title="TypeScript"></img>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" height="35" width="50" title="Python"></img>
-</div>
-        
-                                                                                                                                       
-                                                                                                                                       
-<!-- 
-**riandeoliveira/riandeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
