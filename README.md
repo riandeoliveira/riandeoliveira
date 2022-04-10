@@ -21,7 +21,7 @@
 
 <ul>
   <li>⭐ 20 years old.</li>
-  <li>🎓 I'm currently in the third semester of Computer Science at <a href="https://www.cesuca.edu.br/" rel="external">Cesuca University Center</a>.</li>
+  <li>🎓 Computer Science Student at <a href="https://www.cesuca.edu.br/" rel="external">Cesuca University Center</a>.</li>
   <li>🍕 My favorite food is pizza.</li>
   <li>🎵 I love listening to rock, pop and lo-fi.</li>
   <li>📒 I like to write fanfics sometimes.</li>
