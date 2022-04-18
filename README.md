@@ -28,7 +28,7 @@
   <li>🪄 Reading Harry Potter and the Prisoner of Azkaban.</li>
   <li>⚡ My favorite hobby is <strong>coding</strong>.</li>
   <li>👨‍💻 Looking for a <strong>Junior Front-End Developer</strong> job.</li>
-  <li>📄 You can check my resume <a href="https://drive.google.com/file/d/1MJjgLDegIzwDD8KHtTGSaLrgAM3Vzpbs/view?usp=sharing" rel="external"><strong>here</strong></a>.</li>
+  <li>📄 You can check my resume <a href="https://drive.google.com/file/d/1rWMGPnDs9gT283Iurq9B648n4gfcBMKt/view?usp=sharing" rel="external"><strong>here</strong></a>.</li>
 </ul>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Anime GIF with programming" height="178" src="https://64.media.tumblr.com/ba8c705edd2bed0a28d9458811155d69/tumblr_onxkyoloha1w05w8zo1_500.gifv" width="286" />
