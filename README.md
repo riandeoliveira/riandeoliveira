@@ -37,7 +37,7 @@
 
 <div align="center">
   <img alt="Rian Oliveira's GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=github_dark&show_icons=true&border_color=4c8eda&bg_color=111113&border_radius=10&include_all_commits=true" />
-  <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark&hide=html&langs_count=6&border_color=4c8eda&bg_color=111113&border_radius=10" />
+  <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark&hide=html&langs_count=7&border_color=4c8eda&bg_color=111113&border_radius=10" />
 </div>
 
 <h2>🛠 My Stack</h2>
