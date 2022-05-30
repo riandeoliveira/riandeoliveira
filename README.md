@@ -20,7 +20,7 @@
 </a>
 
 <ul>
-  <li>⭐ 20 years old.</li>
+  <li>⭐ 21 years old.</li>
   <li>🎓 Computer Science Student at <a href="https://www.cesuca.edu.br/" rel="external">Cesuca University Center</a>.</li>
   <li>🍕 My favorite food is pizza.</li>
   <li>🎵 I love listening to rock, pop and lo-fi.</li>
