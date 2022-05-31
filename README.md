@@ -27,7 +27,7 @@
   <li>🪄 Reading Harry Potter and the Prisoner of Azkaban.</li>
   <li>⚡ My favorite hobby is <strong>coding</strong>.</li>
   <li>👨‍💻 Looking for a <strong>Junior Front-End Developer</strong> job.</li>
-  <li>📄 You can check my resume <a href="https://drive.google.com/file/d/1rWMGPnDs9gT283Iurq9B648n4gfcBMKt/view?usp=sharing" rel="external"><strong>here</strong></a>.</li>
+  <li>📄 You can check my resume <a href="https://drive.google.com/file/d/1f8V9Z6VrjCl3WWdCtDJUVEIha6tZVYMf/view" rel="external"><strong>here</strong></a>.</li>
   <li>🖼️ And here is my <a href="https://riandeoliveira.github.io/portfolio" rel="external"><strong>portfolio</strong></a>.</li>
 </ul>
 
