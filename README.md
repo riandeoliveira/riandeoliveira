@@ -10,7 +10,7 @@
 
 <h1 align="center">
   <span><code>Hello, World! I'm &#60;Rian Oliveira /&#62;</code></span>
-  <img align="center" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="Hand greeting gif" width="30" />
 </h1>
 
 <h2>🙋‍♂️ About Me</h2>
