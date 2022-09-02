@@ -16,7 +16,7 @@
 <h2>🙋‍♂️ About Me</h2>
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img align="right" alt="Spotify music currently playing" src="https://spotify-github-profile.vercel.app/api/view?uid=riandias2016&cover_image=true&theme=default&bar_color_cover=true" />
+  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=riandias2016&cover_image=true&theme=default&bar_color_cover=true" alt="Spotify music currently playing" />
 </a>
 
 <ul>
