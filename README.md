@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt="Hand greeting gif" width="30" />
 </h1>
 
-<h2>🙋‍♂️ About Me</h2>
+## 🙋‍♂️ About Me
 
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=riandias2016&cover_image=true&theme=default&bar_color_cover=true" alt="Spotify music currently playing" />
