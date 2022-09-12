@@ -40,7 +40,7 @@
   <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&layout=compact&theme=github_dark&hide=html&langs_count=6&border_color=4c8eda&bg_color=111113&border_radius=10" />
 </div>
 
-<h2>🛠 My Stack</h2>
+## 🛠 My Stack
 
 <table align="center">
   <tbody>
