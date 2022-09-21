@@ -135,7 +135,7 @@
   </tbody>
 </table>
 
-<h2>📱 Contacts</h2>
+## 📱 Contacts
 
 <div align="center">
   <a href="mailto:riandiasdeoliveira2001@gmail.com" rel="external" title="Gmail">
