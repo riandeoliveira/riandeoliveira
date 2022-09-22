@@ -45,91 +45,131 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" height="110" width="140">
-        <img alt="HTML5 logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=html" />
         <br>
         <span>HTML</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="CSS3 logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=css" />
         <br>
         <span>CSS</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="JavaScript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=js" />
         <br>
         <span>JavaScript</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="VSCode logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" width="50" />
-        <br>
-        <span>VSCode</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="110" width="140">
-        <img alt="React logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=react" />
         <br>
         <span>React</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="SASS logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="SASS" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=next" />
         <br>
-        <span>SASS</span>
+        <span>Next</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="TypeScript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=nodejs" />
         <br>
-        <span>TypeScript</span>
-      </td>
-      <td align="center" height="110" width="140">
-        <img alt="Styled Components logo" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" title="Styled Components" width="50" />
-        <br>
-        <span>Styled Components</span>
+        <span>NodeJS</span>
       </td>
     </tr>
     <tr>
-      <td align="center" height="110" width="140">
-        <img alt="Python logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="50" />
-        <br>
-        <span>Python</span>
-      </td>
-      <td align="center" height="110" width="140">
-        <img alt="Express.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" title="Express.js" width="50" />
-        <br>
-        <span>Express.js</span>
-      </td>
-      <td align="center" height="110" width="140">
-        <img alt="Node.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" />
-        <br>
-        <span>Node.js</span>
-      </td>
-      <td align="center" height="110" width="140">
-        <img alt="MongoDB logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="50" />
-        <br>
-        <span>MongoDB</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" height="110" width="140">
-        <img alt="Markdown logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=markdown" />
         <br>
         <span>Markdown</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="NPM logo" src="https://juststickers.in/wp-content/uploads/2014/07/NPM.png" title="NPM" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=sass" />
         <br>
-        <span>NPM</span>
+        <span>SASS</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="Git logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=ts" />
+        <br>
+        <span>TypeScript</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=redux" />
+        <br>
+        <span>Redux</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=vercel" />
+        <br>
+        <span>Vercel</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=express" />
+        <br>
+        <span>Express</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=jest" />
+        <br>
+        <span>Jest</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=mongodb" />
+        <br>
+        <span>MongoDB</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=prisma" />
+        <br>
+        <span>Prisma</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=heroku" />
+        <br>
+        <span>Heroku</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=figma" />
+        <br>
+        <span>Figma</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+        <br>
+        <span>Bootstrap</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=vscode" />
+        <br>
+        <span>VSCode</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" />
+        <br>
+        <span>Styled Comp.</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=github" />
+        <br>
+        <span>GitHub</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=git" />
         <br>
         <span>Git</span>
       </td>
-      <td align="center" height="110" width="140">
-        <img alt="GitHub logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" width="50" />
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=vite" />
         <br>
-        <span>GitHub</span>
+        <span>Vite</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=webpack" />
+        <br>
+        <span>Webpack</span>
       </td>
     </tr>
   </tbody>
