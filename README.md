@@ -110,41 +110,9 @@
     </tr>
     <tr>
       <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=jest" />
+        <img src="https://skillicons.dev/icons?i=vite" />
         <br>
-        <span>Jest</span>
-      </td>
-      <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=mongodb" />
-        <br>
-        <span>MongoDB</span>
-      </td>
-      <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=prisma" />
-        <br>
-        <span>Prisma</span>
-      </td>
-      <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=heroku" />
-        <br>
-        <span>Heroku</span>
-      </td>
-      <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=figma" />
-        <br>
-        <span>Figma</span>
-      </td>
-      <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=bootstrap" />
-        <br>
-        <span>Bootstrap</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=vscode" />
-        <br>
-        <span>VSCode</span>
+        <span>Vite</span>
       </td>
       <td align="center" width="124" height="124">
         <img src="https://skillicons.dev/icons?i=styledcomponents" />
@@ -152,9 +120,41 @@
         <span>Styled Comp.</span>
       </td>
       <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=jest" />
+        <br>
+        <span>Jest</span>
+      </td>
+      <td align="center" width="124" height="124">
         <img src="https://skillicons.dev/icons?i=github" />
         <br>
         <span>GitHub</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=heroku" />
+        <br>
+        <span>Heroku</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=mongodb" />
+        <br>
+        <span>MongoDB</span>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=webpack" />
+        <br>
+        <span>Webpack</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+        <br>
+        <span>Bootstrap</span>
+      </td>
+      <td align="center" width="124" height="124">
+        <img src="https://skillicons.dev/icons?i=vscode" />
+        <br>
+        <span>VSCode</span>
       </td>
       <td align="center" width="124" height="124">
         <img src="https://skillicons.dev/icons?i=git" />
@@ -162,14 +162,14 @@
         <span>Git</span>
       </td>
       <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=vite" />
+        <img src="https://skillicons.dev/icons?i=figma" />
         <br>
-        <span>Vite</span>
+        <span>Figma</span>
       </td>
       <td align="center" width="124" height="124">
-        <img src="https://skillicons.dev/icons?i=webpack" />
+        <img src="https://skillicons.dev/icons?i=prisma" />
         <br>
-        <span>Webpack</span>
+        <span>Prisma</span>
       </td>
     </tr>
   </tbody>
