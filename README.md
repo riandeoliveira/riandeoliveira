@@ -24,7 +24,7 @@
   <li>🎓 Computer Science Student at <a href="https://www.cesuca.edu.br/" rel="external">Cesuca University Center</a>.</li>
   <li>🍕 My favorite food is pizza.</li>
   <li>🎵 I love listening to rock, pop and lo-fi.</li>
-  <li>🐍 Currently learning the Python language.</li>
+  <li>🐍 Currently learning the <strong>Python</strong> language.</li>
   <li>⚡ My favorite hobby is <strong>coding</strong>.</li>
   <li>👨‍💻 Looking for a <strong>Front-End Developer</strong> job.</li>
   <li>📄 You can check my resume <a href="https://drive.google.com/file/d/1f8V9Z6VrjCl3WWdCtDJUVEIha6tZVYMf/view" rel="external"><strong>here</strong></a>.</li>
