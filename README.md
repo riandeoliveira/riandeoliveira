@@ -20,7 +20,7 @@
 </a>
 
 <ul>
-  <li>⭐ 21 years old.</li>
+  <li>⭐ 22 years old.</li>
   <li>🎓 Computer Science Student at <a href="https://www.cesuca.edu.br/" rel="external">Centro Universitário Cesuca</a>.</li>
   <li>👨‍💻 <strong>Web Developer Intern</strong> at <a href="https://www.linkedin.com/school/rehagro/">Rehagro</a>.</li>
   <li>🍕 My favorite food is pizza.</li>
