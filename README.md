@@ -22,7 +22,6 @@
 <ul>
   <li>⭐ 22 years old.</li>
   <li>🎓 Computer Science Student at <a href="https://www.cesuca.edu.br/" rel="external">Centro Universitário Cesuca</a>.</li>
-  <li>👨‍💻 <strong>Full Stack Developer Trainee</strong> at <a href="https://www.linkedin.com/school/rehagro/">Rehagro</a>.</li>
   <li>🍕 My favorite food is pizza.</li>
   <li>🎵 I love listening to rock, pop and lo-fi.</li>
   <li>🪄 Reading Harry Potter and the Goblet of Fire.</li>
