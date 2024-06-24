@@ -21,6 +21,7 @@
   <li>🍃 Enjoying coffee, tea and lo-fi</li>
   <li>📖 Currently reading Harry Potter and Chainsaw Man</li>
   <li>⚔️ Trying to be <strong>better</strong></li>
+  <li>📄 Check my resume <a href="https://drive.google.com/file/d/1QTY-NVhra_IHdMbdNhyCG01cBtPr0HAB/view?usp=sharing"><strong>here</strong></a></li>
   <li>✉️ Get in touch: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
 </ul>
 
