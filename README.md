@@ -48,7 +48,7 @@
   <br />
   <img 
     alt="riandeoliveira's Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&border_radius=10&include_all_commits=false"
+    src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true"
     height="180em"
   />
   <img 
