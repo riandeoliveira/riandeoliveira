@@ -13,7 +13,7 @@
 </a>
 
 <ul>
-  <li>🌟 23 years old</li>
+  <li>🌟 24 years old</li>
   <li>🔰 From southern Brazil</li>
   <li>📚 <strong>Computer Science</strong> Student at <a href="https://www.cesuca.edu.br/"><strong>Cesuca</strong></a> | 8th semester</li>
   <li>💵 Full Stack Developer at <a href="https://br.linkedin.com/company/pagbrasil-pagamentos-eletronicos-ltda"><strong>PagBrasil</strong></a></li>
