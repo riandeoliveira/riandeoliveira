@@ -16,7 +16,7 @@
   <li>🌟 24 years old</li>
   <li>🔰 From southern Brazil</li>
   <li>📚 <strong>Computer Science</strong> Student at <a href="https://www.cesuca.edu.br/"><strong>Cesuca</strong></a> | 8th semester</li>
-  <li>💵 Full Stack Developer at <a href="https://br.linkedin.com/company/pagbrasil-pagamentos-eletronicos-ltda"><strong>PagBrasil</strong></a></li>
+  <li>💵 Front End Developer at <a href="https://www.linkedin.com/company/somosdb"><strong>DB</strong></a></li>
   <li>💻 I like playing <strong>games</strong> and writing <strong>code</strong></li>
   <li>🍃 Enjoying coffee, tea and lo-fi</li>
   <li>⚔️ Trying to be <strong>better</strong></li>
