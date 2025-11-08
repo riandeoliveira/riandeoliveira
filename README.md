@@ -220,48 +220,17 @@
   </tbody>
 </table>
 
-## 📱 Social Medias
-
-<img src="/assets/separator.gif" />
+<h3>
+  <strong>📱 Social Medias</strong>
+  <img src="/assets/gifs/separator.gif">
+</h3>
 
 <div align="center">
-  <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram">
-    <img alt="Instagram logo" src="https://i.imgur.com/5tf0i3i.png" title="Instagram" width="48" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://www.linkedin.com/in/riandeoliveira/" title="LinkedIn">
-    <img alt="LinkedIn logo" src="https://i.imgur.com/0N9z357.png" title="LinkedIn" width="48" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://open.spotify.com/user/riandias2016" title="Spotify">
-    <img alt="Spotify logo" src="https://i.imgur.com/fXTbU4n.png" title="Spotify" width="48" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://wa.me/5551991852873" title="WhatsApp">
-    <img alt="WhatsApp logo" src="https://i.imgur.com/FKOzuGJ.png" title="WhatsApp" width="48" />
-  </a>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <a href="https://x.com/_MrBachelor_" title="X">
-    <img alt="X logo" src="https://i.imgur.com/3hOupa1.png" title="X" width="48" />
-  </a>
+  <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram"><img src="/assets/icons/social-medias/instagram.svg" title="Instagram" width="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/riandeoliveira/" title="LinkedIn"><img src="/assets/icons/social-medias/linkedin.svg" title="LinkedIn" width="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/riandias2016" title="Spotify"><img src="/assets/icons/social-medias/spotify.svg" title="Spotify" width="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/5551991852873" title="WhatsApp"><img src="/assets/icons/social-medias/whatsapp.svg" title="WhatsApp" width="48" /></a>
 </div>
