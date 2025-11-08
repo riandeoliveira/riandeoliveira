@@ -1,3 +1,6 @@
+<a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.md"><img src="/assets/icons/badges/en-us.svg" /></a>
+<a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.pt-br.md"><img src="/assets/icons/badges/pt-br.svg" /></a>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&center=true&width=600&lines=Hello%2C+World!+I'm+Rian+Oliveira" />
   <img src="/assets/gifs/separator.gif">
@@ -73,19 +76,16 @@
 
 <div align="center">
   <img
-    alt="riandeoliveira's Streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=riandeoliveira&theme=react&hide_border=true&border_radius=10"
-    height="180em"
-  />
-  <br />
-  <img
-    alt="riandeoliveira's Stats"
     src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true"
     height="180em"
   />
   <img
-    alt="riandeoliveira's Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact&border_radius=10&hide=php,blade"
+    height="180em"
+  />
+  <br />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=riandeoliveira&theme=react&hide_border=true&border_radius=10"
     height="180em"
   />
 </div>
@@ -93,7 +93,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h2>🛠️ Stack</h2>
+      <h2>🛠️ My Stack</h2>
       <img src="/assets/gifs/separator.gif">
     </summary>
   </ul>
