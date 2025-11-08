@@ -13,6 +13,8 @@
 
 <img src="/assets/gifs/pochita-dancing.gif" />
 
+<img src="/assets/images/avatar.png" />
+
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
@@ -85,62 +87,68 @@
 </div>
 
 <div align="center">
-  <img src="/assets/icons/skills/azure.svg" />
+  <img src="/assets/icons/skills/azure.svg" title="Azure" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/bootstrap.svg" />
+  <img src="/assets/icons/skills/bootstrap.svg" title="Bootstrap" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/csharp.svg" />
+  <img src="/assets/icons/skills/csharp.svg" title="C#" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/css.svg" />
+  <img src="/assets/icons/skills/css.svg" title="CSS" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/cypress.svg" />
+  <img src="/assets/icons/skills/cypress.svg" title="Cypress" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/docker.svg" />
+  <img src="/assets/icons/skills/docker.svg" title="Docker" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/dotnet.svg" />
+  <img src="/assets/icons/skills/dotnet.svg" title=".NET" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/express.svg" />
+  <img src="/assets/icons/skills/express.svg" title="Express" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/git.svg" />
+  <img src="/assets/icons/skills/git.svg" title="Git" />
   <br />
   <br />
-  <img src="/assets/icons/skills/html.svg" />
+  <img src="/assets/icons/skills/html.svg" title="HTML" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/javascript.svg" />
+  <img src="/assets/icons/skills/javascript.svg" title="JavaScript" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/jest.svg" />
+  <img src="/assets/icons/skills/jest.svg" title="Jest" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/material-ui.svg" />
+  <img src="/assets/icons/skills/material-ui.svg" title="Material UI" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/nestjs.svg" />
+  <img src="/assets/icons/skills/nestjs.svg" title="Nest.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/nextjs.svg" />
+  <img src="/assets/icons/skills/nextjs.svg" title="Next.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/nodejs.svg" />
+  <img src="/assets/icons/skills/nodejs.svg" title="Node.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/postgresql.svg" />
+  <img src="/assets/icons/skills/postgresql.svg" title="PostgreSQL" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/react.svg" />
+  <img src="/assets/icons/skills/react.svg" title="React" />
   <br />
   <br />
-  <img src="/assets/icons/skills/redux.svg" />
+  <img src="/assets/icons/skills/redux.svg" title="Redux" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/sass.svg" />
+  <img src="/assets/icons/skills/sass.svg" title="SASS" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/styled-components.svg" />
+  <img src="/assets/icons/skills/styled-components.svg" title="Styled Components" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/tailwindcss.svg" />
+  <img src="/assets/icons/skills/tailwindcss.svg" title="Tailwind CSS" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/threejs.svg" />
+  <img src="/assets/icons/skills/threejs.svg" title="Three.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/typescript.svg" />
+  <img src="/assets/icons/skills/typescript.svg" title="TypeScript" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/vite.svg" />
+  <img src="/assets/icons/skills/vite.svg" title="Vite" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/vuejs.svg" />
+  <img src="/assets/icons/skills/vuejs.svg" title="Vue.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="/assets/icons/skills/vuetify.svg" />
+  <img src="/assets/icons/skills/vuetify.svg" title="Vuetify" />
 </div>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
