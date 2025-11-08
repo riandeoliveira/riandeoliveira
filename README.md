@@ -24,28 +24,43 @@
 
 <img
   src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
-  height="300"
+  height="350"
   align="right"
 />
 
-<img src="/assets/images/avatar.png" height="300" align="right" />
+<img src="/assets/images/avatar.png" height="350" align="right" />
 
 <ul>
   <li>🌟 24 years old</li>
   <li>🔰 From southern Brazil</li>
   <li>📚 Computer Science <strong>Graduate</strong> from <a href="https://www.cesuca.edu.br/"><strong>Cesuca</strong></a></li>
   <li>💵 Mid-level <strong>Front End Developer</strong> at <a href="https://www.linkedin.com/company/somosdb"><strong>DB</strong></a></li>
-  <li>💻 I like playing <strong>games</strong> and writing <strong>code</strong></li>
-  <li>🍃 Enjoying coffee, tea and lo-fi</li>
-  <li>⚔️ Trying to be <strong>better</strong></li>
-  <li>👨‍💻 See my <a href="https://riandeoliveira.dev/"><strong>portfolio</strong></a></li>
-  <li>📄 Check my resume <a href="https://drive.google.com/file/d/1h9N0kHSkNqxtNAZQOWJkFjXkCTZ89_m5/view"><strong>here</strong></a></li>
-  <li>✉️ Get in touch: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
+  <li>⚔️ Always trying to become <strong>better</strong></li>
+  <li>⭐ A fan of <strong>Harry Potter</strong> and <strong>Chainsaw Man</strong></li>
+  <li>💻 I enjoy playing <strong>games</strong>, writing <strong>code</strong> and reading <strong>books</strong></li>
+  <li>🎸 I also play <strong>electric guitar</strong></li>
+  <li>🏃 I love <strong>running outdoors</strong>, especially to clear my mind</li>
+  <li>🍃 Fuelled by <strong>coffee</strong>, <strong>tea</strong> and <strong>lo-fi</strong> playlists</li>
+  <li>👨‍💻 See my portfolio at <a href="https://riandeoliveira.dev/"><strong>riandeoliveira.dev</strong></a></li>
+  <li>📄 Check my resume <a href="https://drive.google.com/file/d/1bMzJbO7BGJPk7ieyzUmSzeBIUU82AvF8/view?usp=sharing"><strong>here</strong></a></li>
+  <li>✉️ Contact me: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
 </ul>
 
-&nbsp;&nbsp;&nbsp;
-<img src="/assets/gifs/pochita-coding.gif" width="286" height="178" align="left" />
-<img src="/assets/gifs/pochita-dancing.gif" width="178" height="178" />
+<br />
+
+<div>
+  <img src="/assets/gifs/pochita-coding.gif" width="286" height="178" align="left" />
+  <img src="/assets/gifs/pochita-dancing.gif" width="178" height="178" align="right" />
+</div>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
