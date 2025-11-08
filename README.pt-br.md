@@ -1,7 +1,7 @@
 <a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.md"><img src="/assets/icons/badges/en-us.svg" /></a>
 <a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.pt-br.md"><img src="/assets/icons/badges/pt-br.svg" /></a>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&center=true&width=600&lines=Hello%2C+World!+I'm+Rian+Oliveira" />
+  <img src="/assets/icons/greetings/greetings-pt-br.svg" />
   <img src="/assets/gifs/separator.gif">
 </div>
 <div align="right">
@@ -16,7 +16,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h2>🙋‍♂️ About Me</h2>
+      <h2>🙋‍♂️ Sobre Mim</h2>
       <img src="/assets/gifs/separator.gif">
     </summary>
   </ul>
@@ -28,19 +28,19 @@
 />
 <img src="/assets/images/avatar.png" height="280" align="right" />
 <ul>
-  <li>🌟 24 years old</li>
-  <li>🔰 From southern Brazil</li>
-  <li>📚 Computer Science <strong>Graduate</strong> from <a href="https://www.cesuca.edu.br/"><strong>Cesuca</strong></a></li>
-  <li>💵 Mid-level <strong>Front End Developer</strong> at <a href="https://www.linkedin.com/company/somosdb"><strong>DB</strong></a></li>
-  <li>⚔️ Always trying to become <strong>better</strong></li>
-  <li>⭐ A fan of <strong>Harry Potter</strong> and <strong>Chainsaw Man</strong></li>
-  <li>💻 I enjoy playing <strong>games</strong>, writing <strong>code</strong> and reading <strong>books</strong></li>
-  <li>🎸 I also play <strong>electric guitar</strong></li>
-  <li>🏃 I love <strong>running outdoors</strong>, especially to clear my mind</li>
-  <li>🍃 Fuelled by <strong>coffee</strong>, <strong>tea</strong> and <strong>lo-fi</strong> playlists</li>
-  <li>👨‍💻 See my portfolio at <a href="https://riandeoliveira.dev/"><strong>riandeoliveira.dev</strong></a></li>
-  <li>📄 Check my resume <a href="https://drive.google.com/file/d/1bMzJbO7BGJPk7ieyzUmSzeBIUU82AvF8/view?usp=sharing"><strong>here</strong></a></li>
-  <li>✉️ Contact me: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
+  <li>🌟 24 anos</li>
+  <li>🔰 Do sul do Brasil</li>
+  <li>📚 Graduado em <strong>Ciência da Computação</strong> pela <a href="https://www.cesuca.edu.br/"><strong>Cesuca</strong></a></li>
+  <li>💵 <strong>Desenvolvedor Front End</strong> Pleno na <a href="https://www.linkedin.com/company/somosdb"><strong>DB</strong></a></li>
+  <li>⚔️ Sempre tentando me tornar uma pessoa <strong>melhor</strong></li>
+  <li>⭐ Um fã de <strong>Harry Potter</strong> e <strong>Chainsaw Man</strong></li>
+  <li>💻 Eu gosto de jogar <strong>games</strong>, escrever <strong>código</strong> e ler <strong>livros</strong></li>
+  <li>🎸 Também toco <strong>guitarra elétrica</strong></li>
+  <li>🏃 Eu amo <strong>correr ao ar livre</strong>, especialmente para limpar a mente</li>
+  <li>🍃 Movido a <strong>café</strong>, <strong>chá</strong> e <strong>lo-fi</strong></li>
+  <li>👨‍💻 Veja meu portfólio em <a href="https://riandeoliveira.dev/"><strong>riandeoliveira.dev</strong></a></li>
+  <li>📄 Confira meu currículo <a href="https://drive.google.com/file/d/1bMzJbO7BGJPk7ieyzUmSzeBIUU82AvF8/view?usp=sharing"><strong>here</strong></a></li>
+  <li>✉️ Contato: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
 </ul>
 <br />
 <div>
@@ -58,7 +58,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h2>⚙️ GitHub Analytics</h2>
+      <h2>⚙️ Estatísticas do GitHub</h2>
       <img src="/assets/gifs/separator.gif">
     </summary>
   </ul>
@@ -81,7 +81,7 @@
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
-      <h2>🛠️ My Stack</h2>
+      <h2>🛠️ Minha Stack</h2>
       <img src="/assets/gifs/separator.gif">
     </summary>
   </ul>
