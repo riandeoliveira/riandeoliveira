@@ -27,11 +27,11 @@
 
 <img
   src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
-  height="320"
+  height="300"
   align="right"
 />
 
-<img src="/assets/images/avatar.png" height="320" align="right" />
+<img src="/assets/images/avatar.png" height="300" align="right" />
 
 <ul>
   <li>🌟 24 years old</li>
