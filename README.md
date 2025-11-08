@@ -1,6 +1,17 @@
-<h1 align="center">
-  <pre>Hello, World! I'm &#60;Rian Oliveira /&#62;</pre>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&center=true&width=600&lines=Hello%2C+World!+I'm+Rian+Oliveira" />
+  <img src="/assets/gifs/separator.gif">
+</div>
+
+<div align="right">
+  <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram"><img src="/assets/icons/social-medias/instagram.svg" title="Instagram" width="48" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/riandeoliveira/" title="LinkedIn"><img src="/assets/icons/social-medias/linkedin.svg" title="LinkedIn" width="48" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/riandias2016" title="Spotify"><img src="/assets/icons/social-medias/spotify.svg" title="Spotify" width="48" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/5551991852873" title="WhatsApp"><img src="/assets/icons/social-medias/whatsapp.svg" title="WhatsApp" width="48" /></a>
+</div>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
@@ -11,9 +22,7 @@
   </ul>
 </div>
 
-<img src="/assets/gifs/pochita-dancing.gif" />
-
-<img src="/assets/images/avatar.png" />
+<img src="/assets/images/avatar.png" align="right" />
 
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img
@@ -40,14 +49,11 @@
 
 &nbsp;
 &nbsp;
-<img
-  alt="Illustration of Pochita from Chainsaw Man sitting in an office chair, looking at a computer monitor."
-  src="https://static.myfigurecollection.net/upload/pictures/2023/12/29/3853426.gif"
-  width="286"
-  height="178"
-/>
+<img src="/assets/gifs/pochita-coding.gif" />
 
 <br />
+
+<img src="/assets/gifs/pochita-dancing.gif" align="right" />
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
@@ -157,14 +163,4 @@
       <img src="/assets/gifs/separator.gif">
     </summary>
   </ul>
-</div>
-
-<div align="center">
-  <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram"><img src="/assets/icons/social-medias/instagram.svg" title="Instagram" width="48" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/riandeoliveira/" title="LinkedIn"><img src="/assets/icons/social-medias/linkedin.svg" title="LinkedIn" width="48" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/riandias2016" title="Spotify"><img src="/assets/icons/social-medias/spotify.svg" title="Spotify" width="48" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/5551991852873" title="WhatsApp"><img src="/assets/icons/social-medias/whatsapp.svg" title="WhatsApp" width="48" /></a>
 </div>
