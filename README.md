@@ -59,7 +59,18 @@
   />
 </div>
 
-## 🛠 My Stack
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>🛠️ Stack</h2>
+      <img src="/assets/gifs/separator.gif">
+    </summary>
+  </ul>
+</div>
+
+<div>
+  <img src="/assets/icons/skills/azure.svg" />
+</div>
 
 <table align="center">
   <tbody>
@@ -220,10 +231,14 @@
   </tbody>
 </table>
 
-<h3>
-  <strong>📱 Social Medias</strong>
-  <img src="/assets/gifs/separator.gif">
-</h3>
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>📱 Social Medias</h2>
+      <img src="/assets/gifs/separator.gif">
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram"><img src="/assets/icons/social-medias/instagram.svg" title="Instagram" width="48" /></a>
