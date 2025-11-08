@@ -39,7 +39,7 @@
   <li>🏃 Eu amo <strong>correr ao ar livre</strong>, especialmente para limpar a mente</li>
   <li>🍃 Movido a <strong>café</strong>, <strong>chá</strong> e <strong>lo-fi</strong></li>
   <li>👨‍💻 Veja meu portfólio em <a href="https://riandeoliveira.dev/"><strong>riandeoliveira.dev</strong></a></li>
-  <li>📄 Confira meu currículo <a href="https://drive.google.com/file/d/1bMzJbO7BGJPk7ieyzUmSzeBIUU82AvF8/view?usp=sharing"><strong>here</strong></a></li>
+  <li>📄 Confira meu currículo <a href="https://drive.google.com/file/d/1bMzJbO7BGJPk7ieyzUmSzeBIUU82AvF8/view?usp=sharing"><strong>aqui</strong></a></li>
   <li>✉️ Contato: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
 </ul>
 <br />
