@@ -1,11 +1,9 @@
 <a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.md"><img src="/assets/icons/badges/en-us.svg" /></a>
 <a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.pt-br.md"><img src="/assets/icons/badges/pt-br.svg" /></a>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&center=true&width=600&lines=Hello%2C+World!+I'm+Rian+Oliveira" />
   <img src="/assets/gifs/separator.gif">
 </div>
-
 <div align="right">
   <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram"><img src="/assets/icons/social-medias/instagram.svg" title="Instagram" width="48" /></a>
   &nbsp;&nbsp;&nbsp;
@@ -15,7 +13,6 @@
   &nbsp;&nbsp;
   <a href="https://wa.me/5551991852873" title="WhatsApp"><img src="/assets/icons/social-medias/whatsapp.svg" title="WhatsApp" width="48" /></a>
 </div>
-
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
@@ -24,15 +21,12 @@
     </summary>
   </ul>
 </div>
-
 <img
   src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
   height="280"
   align="right"
 />
-
 <img src="/assets/images/avatar.png" height="280" align="right" />
-
 <ul>
   <li>🌟 24 years old</li>
   <li>🔰 From southern Brazil</li>
@@ -48,14 +42,11 @@
   <li>📄 Check my resume <a href="https://drive.google.com/file/d/1bMzJbO7BGJPk7ieyzUmSzeBIUU82AvF8/view?usp=sharing"><strong>here</strong></a></li>
   <li>✉️ Contact me: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
 </ul>
-
 <br />
-
 <div>
   <img src="/assets/gifs/pochita-coding.gif" width="286" height="178" align="left" />
   <img src="/assets/gifs/pochita-dancing.gif" width="178" height="178" align="right" />
 </div>
-
 <br />
 <br />
 <br />
@@ -64,7 +55,6 @@
 <br />
 <br />
 <br />
-
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
@@ -73,7 +63,6 @@
     </summary>
   </ul>
 </div>
-
 <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true"
@@ -89,7 +78,6 @@
     height="180em"
   />
 </div>
-
 <div id="user-content-toc">
   <ul style="list-style: none;">
     <summary>
@@ -98,7 +86,6 @@
     </summary>
   </ul>
 </div>
-
 <div align="center">
   <img src="/assets/icons/skills/azure.svg" title="Azure" />
   &nbsp;&nbsp;&nbsp;
