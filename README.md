@@ -2,7 +2,16 @@
   <pre>Hello, World! I'm &#60;Rian Oliveira /&#62;</pre>
 </h1>
 
-## 🙋‍♂️ About Me
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>🙋‍♂️ About Me</h2>
+      <img src="/assets/gifs/separator.gif">
+    </summary>
+  </ul>
+</div>
+
+<img src="/assets/gifs/pochita-dancing.gif" />
 
 <a href="https://github.com/kittinan/spotify-github-profile">
   <img
@@ -38,7 +47,14 @@
 
 <br />
 
-## ⚙️ GitHub Analytics
+<div id="user-content-toc">
+  <ul style="list-style: none;">
+    <summary>
+      <h2>⚙️ GitHub Analytics</h2>
+      <img src="/assets/gifs/separator.gif">
+    </summary>
+  </ul>
+</div>
 
 <div align="center">
   <img
@@ -68,168 +84,63 @@
   </ul>
 </div>
 
-<div>
+<div align="center">
   <img src="/assets/icons/skills/azure.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/bootstrap.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/csharp.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/css.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/cypress.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/docker.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/dotnet.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/express.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/git.svg" />
+  <br />
+  <br />
+  <img src="/assets/icons/skills/html.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/javascript.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/jest.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/material-ui.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/nestjs.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/nextjs.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/nodejs.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/postgresql.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/react.svg" />
+  <br />
+  <br />
+  <img src="/assets/icons/skills/redux.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/sass.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/styled-components.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/tailwindcss.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/threejs.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/typescript.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/vite.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/vuejs.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="/assets/icons/skills/vuetify.svg" />
 </div>
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=azure" />
-        <br>
-        <span>Azure</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=bootstrap" />
-        <br>
-        <span>Bootstrap</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=cs" />
-        <br>
-        <span>C#</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=css" />
-        <br>
-        <span>CSS</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=cypress" />
-        <br>
-        <span>Cypress</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=docker" />
-        <br>
-        <span>Docker</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=dotnet" />
-        <br>
-        <span>.NET</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=express" />
-        <br>
-        <span>Express</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=git" />
-        <br>
-        <span>Git</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=html" />
-        <br>
-        <span>HTML</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=jest" />
-        <br>
-        <span>Jest</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=javascript" />
-        <br>
-        <span>JavaScript</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=laravel" />
-        <br>
-        <span>Laravel</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=materialui" />
-        <br>
-        <span>Material UI</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=mysql" />
-        <br>
-        <span>MySQL</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=nextjs" />
-        <br>
-        <span>Next.js</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=nodejs" />
-        <br>
-        <span>Node.js</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=php" />
-        <br>
-        <span>PHP</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=postgresql" />
-        <br>
-        <span>PostgreSQL</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=react" />
-        <br>
-        <span>React</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=redux" />
-        <br>
-        <span>Redux</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=sass" />
-        <br>
-        <span>SASS</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" />
-        <br>
-        <span>Styled Components</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=tailwind" />
-        <br>
-        <span>Tailwind CSS</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=threejs" />
-        <br>
-        <span>Three.js</span>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=typescript" />
-        <br>
-        <span>TypeScript</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=vite" />
-        <br>
-        <span>Vite</span>
-      </td>
-      <td align="center" width="128" height="128">
-        <img src="https://skillicons.dev/icons?i=vscode" />
-        <br>
-        <span>VSCode</span>
-      </td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
@@ -242,10 +153,10 @@
 
 <div align="center">
   <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram"><img src="/assets/icons/social-medias/instagram.svg" title="Instagram" width="48" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/riandeoliveira/" title="LinkedIn"><img src="/assets/icons/social-medias/linkedin.svg" title="LinkedIn" width="48" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/riandias2016" title="Spotify"><img src="/assets/icons/social-medias/spotify.svg" title="Spotify" width="48" /></a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/5551991852873" title="WhatsApp"><img src="/assets/icons/social-medias/whatsapp.svg" title="WhatsApp" width="48" /></a>
 </div>
