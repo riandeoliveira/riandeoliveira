@@ -1,7 +1,7 @@
 <a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.md"><img src="/assets/icons/badges/en-us.svg" /></a>
 <a href="https://github.com/riandeoliveira/riandeoliveira/blob/main/README.pt-br.md"><img src="/assets/icons/badges/pt-br.svg" /></a>
 <div align="center">
-  <img src="/assets/icons/greetings/greetings-en-us.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&center=true&width=600&lines=Hello%2C+World!+I'm+Rian+Oliveira" />
   <img src="/assets/gifs/separator.gif">
 </div>
 <div align="right">
