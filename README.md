@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/riandeoliveira/" title="LinkedIn"><img src="/assets/icons/social-medias/linkedin.svg" title="LinkedIn" width="48" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/riandias2016" title="Spotify"><img src="/assets/icons/social-medias/spotify.svg" title="Spotify" width="48" /></a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://wa.me/5551991852873" title="WhatsApp"><img src="/assets/icons/social-medias/whatsapp.svg" title="WhatsApp" width="48" /></a>
 </div>
 
@@ -22,21 +22,19 @@
   </ul>
 </div>
 
-<img src="/assets/images/avatar.png" align="right" />
+<img
+  src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
+  height="300"
+  align="right"
+/>
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
-    alt="Music currently playing on spotify."
-    align="right"
-  />
-</a>
+<img src="/assets/images/avatar.png" height="300" align="right" />
 
 <ul>
   <li>🌟 24 years old</li>
   <li>🔰 From southern Brazil</li>
-  <li>📚 <strong>Computer Science</strong> Student at <a href="https://www.cesuca.edu.br/"><strong>Cesuca</strong></a> | 8th semester</li>
-  <li>💵 Front End Developer at <a href="https://www.linkedin.com/company/somosdb"><strong>DB</strong></a></li>
+  <li>📚 Computer Science <strong>Graduate</strong> from <a href="https://www.cesuca.edu.br/"><strong>Cesuca</strong></a></li>
+  <li>💵 Mid-level <strong>Front End Developer</strong> at <a href="https://www.linkedin.com/company/somosdb"><strong>DB</strong></a></li>
   <li>💻 I like playing <strong>games</strong> and writing <strong>code</strong></li>
   <li>🍃 Enjoying coffee, tea and lo-fi</li>
   <li>⚔️ Trying to be <strong>better</strong></li>
@@ -45,15 +43,9 @@
   <li>✉️ Get in touch: <a href="mailto:riandiasdeoliveira2001@gmail.com"><strong>riandiasdeoliveira2001@gmail.com</strong></a></li>
 </ul>
 
-<br />
-
-&nbsp;
-&nbsp;
-<img src="/assets/gifs/pochita-coding.gif" />
-
-<br />
-
-<img src="/assets/gifs/pochita-dancing.gif" align="right" />
+&nbsp;&nbsp;&nbsp;
+<img src="/assets/gifs/pochita-coding.gif" width="286" height="178" align="left" />
+<img src="/assets/gifs/pochita-dancing.gif" width="178" height="178" />
 
 <div id="user-content-toc">
   <ul style="list-style: none;">
@@ -148,19 +140,4 @@
   <img src="/assets/icons/skills/vuejs.svg" title="Vue.js" />
   &nbsp;&nbsp;&nbsp;
   <img src="/assets/icons/skills/vuetify.svg" title="Vuetify" />
-</div>
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&mode=dark&bar_color=53b14f&bar_color_cover=false">
-  </a>
-</p>
-
-<div id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-      <h2>📱 Social Medias</h2>
-      <img src="/assets/gifs/separator.gif">
-    </summary>
-  </ul>
 </div>
