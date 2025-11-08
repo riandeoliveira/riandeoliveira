@@ -65,16 +65,16 @@
 </div>
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true&locale=pt-br"
     height="180em"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact&border_radius=10&hide=php,blade"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact&border_radius=10&hide=php,blade&locale=pt-br"
     height="180em"
   />
   <br />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=riandeoliveira&theme=react&hide_border=true&border_radius=10"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=riandeoliveira&theme=react&hide_border=true&border_radius=10&locale=pt-br"
     height="180em"
   />
 </div>
