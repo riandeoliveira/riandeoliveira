@@ -36,7 +36,7 @@
   <li>⭐ A fan of <strong>Harry Potter</strong> and <strong>Chainsaw Man</strong></li>
   <li>💻 I enjoy playing <strong>games</strong>, writing <strong>code</strong> and reading <strong>books</strong></li>
   <li>🎸 I also play <strong>electric guitar</strong></li>
-  <li>🏃 I love <strong>running outdoors</strong>, especially to clear my mind</li>
+  <li>🏃 I love <strong>running outdoors</strong>, to clear my mind</li>
   <li>🍃 Fuelled by <strong>coffee</strong>, <strong>tea</strong> and <strong>lo-fi</strong></li>
   <li>👨‍💻 See my portfolio at <a href="https://riandeoliveira.dev/"><strong>riandeoliveira.dev</strong></a></li>
   <li>📄 Check my resume <a href="https://drive.google.com/file/d/1bMzJbO7BGJPk7ieyzUmSzeBIUU82AvF8/view?usp=sharing"><strong>here</strong></a></li>
