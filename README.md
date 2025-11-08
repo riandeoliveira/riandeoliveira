@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img 
+  <img
     src="https://spotify-github-profile.kittinanx.com/api/view?uid=riandias2016&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"
     alt="Music currently playing on spotify."
     align="right"
@@ -29,10 +29,10 @@
 
 &nbsp;
 &nbsp;
-<img 
+<img
   alt="Illustration of Pochita from Chainsaw Man sitting in an office chair, looking at a computer monitor."
-  src="https://static.myfigurecollection.net/upload/pictures/2023/12/29/3853426.gif" 
-  width="286" 
+  src="https://static.myfigurecollection.net/upload/pictures/2023/12/29/3853426.gif"
+  width="286"
   height="178"
 />
 
@@ -47,13 +47,13 @@
     height="180em"
   />
   <br />
-  <img 
-    alt="riandeoliveira's Stats" 
+  <img
+    alt="riandeoliveira's Stats"
     src="https://github-readme-stats.vercel.app/api?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&border_radius=10&include_all_commits=true"
     height="180em"
   />
-  <img 
-    alt="riandeoliveira's Top Languages" 
+  <img
+    alt="riandeoliveira's Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandeoliveira&theme=react&show_icons=true&hide_border=true&layout=compact&border_radius=10&hide=php,blade"
     height="180em"
   />
@@ -221,6 +221,8 @@
 </table>
 
 ## 📱 Social Medias
+
+<img src="/assets/separator.gif" />
 
 <div align="center">
   <a href="https://www.instagram.com/rian.deoliveira/" title="Instagram">
